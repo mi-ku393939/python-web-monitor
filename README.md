@@ -1,8 +1,8 @@
-#Python web monitor 
+# Python web monitor 
 
 pythonで複数のサイトの状態を監視するプログラムです
 
-##主な機能
+##  主な機能
 
 -HTTPステータスコードの確認
 -応答時間の計算

@@ -1,3 +1,4 @@
 server_log*.csv
 tempCodeRunnerFile.py
-__pycache__/
+__pycache__
+.venv/
